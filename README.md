@@ -12,7 +12,7 @@ OptContR is a R package (R Core Team 2016) comprised of one primary function: ge
 *   install.packages("devtools")
 *   library(devtools)
 *   install_github("mghamilton/OptContR")
-*   library(SNPpools)
+*   library(OptContR)
 *   help ("get.c")
 
 ### Contact details ###
