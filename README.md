@@ -5,7 +5,7 @@ OptContR is a R package (R Core Team 2016) comprised of one primary function: ge
 ### What is OptContR ###
 
 * OptContR implements the methods of Hamilton (2020).
-* The function primary function 'get.c' has detailed R help documentation.  Examples are provided corresponding to Supplementary Material 3 of Hamilton MG (2020)
+* Detailed R help documentation is provided for the primary function 'get.c'.  Examples are provided corresponding to Supplementary Material 3 in Hamilton (2020)
 
 ### To install OptContR in R ###
 
