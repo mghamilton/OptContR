@@ -1,0 +1,17 @@
+Package: OptContR
+Type: Package
+Title: OptContR package to implement get.c function
+Version: 0.1.0
+Author: Matthew Gray Hamilton <matthewhamilton75@gmail.com>
+Maintainer: Matthew Gray Hamilton <matthewhamilton75@gmail.com>
+Description: Includes a function (get.c) to implement the method of Hamilton (2020) Optimal contributions in highly fecund species with overlapping generations. 
+License: CC BY-NC-ND 4.0
+Encoding: UTF-8
+LazyData: true
+Imports:
+    compiler,
+    tidyverse,
+    nadiv
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
